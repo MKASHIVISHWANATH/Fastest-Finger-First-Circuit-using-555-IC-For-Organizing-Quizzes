@@ -1,0 +1,2 @@
+# Fastest-Finger-First-Circuit-using-555-IC-For-Organizing-Quizzes
+The Fastest Finger First (FFF) circuit is an electronic system designed to fairly identify the participant who presses their response button first during a quiz competition. The system ensures that only the first contestant’s signal is registered, while all subsequent button presses are locked out until the quiz master resets the system.
